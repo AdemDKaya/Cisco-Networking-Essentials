@@ -1,2 +1,4 @@
-# Cisco-Networking-Essentials
-A collection of network topologies and lab exercises completed as part of the Cisco Networking Essentials course using Cisco Packet Tracer.
+# Cisco Networking Essentials Labs
+
+This repository contains various network topologies and lab projects completed during the **Cisco Networking Essentials** course. Each lab focuses on practical configurations, troubleshooting, and network design principles.
+
